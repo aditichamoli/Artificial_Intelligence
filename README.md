@@ -1,1 +1,1 @@
-# Artificial_Intelligence
+# Prolog_AI
